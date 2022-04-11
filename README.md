@@ -13,21 +13,14 @@
 <!-- GitHub Contributions -->
 
 <!-- Most Used Languages -->
-<!-- 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alishadavis123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 <!-- GitHub Stats -->
-<!--
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alishadavis123&theme=codeSTACKr&show_icons=true)
--->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishadavis123&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alishadavis123&theme=codeSTACKr&show_icons=true" />
-</a>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alishadavis123&theme=codeSTACKr&show_icons=true)
+
 
 ## Connect with Me
 
