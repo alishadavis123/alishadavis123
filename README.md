@@ -1,10 +1,10 @@
 <!--intro banner=========-->
-<img align="center" src="https://github.com/alishadavis123/readme-assets/blob/970e60698b8076711ec373b9a9e0cca7344ff5f8/self-intro-banner1.png" alt="alishadavis"/>
+<img align="center" src="https://github.com/alishadavis123/readme-assets/blob/b9c021b712b38012884f22f60c52efa04556072b/self-intro-banner1.png" alt="alishadavis"/>
 
 <h1 align="center">Hi 👋, I'm Alisha</h1>
 <h3 align="center">A full stack software engineer from Georgia.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **node.js**
 
 - 💼 Portfolio coming soon!
 
