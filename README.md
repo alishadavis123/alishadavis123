@@ -8,11 +8,11 @@
 
 - 💼 Portfolio coming soon!
 
-- 📫 Email me at [davisnalisha@gmail.com](mailto:davisnalisha@gmail.com)
+<!-- - 📫 Email me at [davisnalisha@gmail.com](mailto:davisnalisha@gmail.com)-->
 
 <!--Github Streaks=========-->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishadavis123&hide_border=true&theme=tokyonight_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishadavis123&hide_border=true&theme=holi-theme&background=0d1117&ring=d89c73&fire=d89c73">
 </div>
 
 <h2 align="left"><!--icon img-->Projects:</h2>
@@ -36,13 +36,14 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/alishadavis123/readme-assets/blob/3ed4125da24132373e98722c000c42de9e8c3053/nodejs-icon.svg" alt="nodejs" width="80" height="80"/>
  </a> 
 </p>
-
-<h2 align="left"><!--icon img-->Metrics:</h2>
+<!--
+<h2 align="left"><!--icon img->Metrics:</h2>
 
 <div align="center">
   <h3 align="center">Coding time tracker</h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alishadavis123&theme=codeSTACKr&show_icons=true" alt="Metrics" width="400">
 </div>
+-->
 
  <!--Social Media Links=========-->
 <h2 align="left"><!--icon img-->Connect with me:</h2>
