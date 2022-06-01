@@ -3,6 +3,12 @@
 <!-- ![Alt Text](picture URL) -->
 [![Alisha Davis](https://github.com/alishadavis123/readme-assets/blob/b9c021b712b38012884f22f60c52efa04556072b/self-intro-banner1.png "Alisha Davis")](https://#)
 
+<p align="center">
+ <a href="https://git.io/typing-svg">
+  <img alt="Typing SVG" title="" src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&color=D89C73&center=true&width=500&lines=full-stack+web+developer;always+learning+new+things" />
+ </a>
+</p>
+
 <!--Social Media Links=========-->
 <p align="center">
  <a href="https://www.codewars.com/users/missnoon" target="_blank" rel="noreferrer">
