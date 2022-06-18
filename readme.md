@@ -3,6 +3,7 @@
 <!-- ![Alt Text](picture URL) -->
 [![Alisha Davis](https://github.com/alishadavis123/readme-assets/blob/b9c021b712b38012884f22f60c52efa04556072b/self-intro-banner1.png "Alisha Davis")](https://#)
 
+<!--phrase rotation=========-->
 <p align="center">
  <a href="https://git.io/typing-svg">
   <img alt="Typing SVG" title="" src="https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&color=D89C73&center=true&width=500&lines=full-stack+web+developer;always+learning+new+things" />
@@ -27,9 +28,10 @@
   <img alt="Twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/@__alishandavis-293548?style=for-the-badge&logo=twitter"/>
  </a>
  &#8287;&#8287;
+ <!--
  <a href="mailto:davisnalisha@gmail.com" target="_blank" rel="noreferrer">
   <img alt="Email" title="Email Me" src="https://img.shields.io/badge/Email_Me-293548?style=for-the-badge&logo=minutemailer"/>
- </a>
+ </a>-->
  &#8287;&#8287;
  <a href="" target="_blank" rel="noreferrer">
   <img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/Buy_Me_a_Coffee-293548?style=for-the-badge&logo=ko-fi"/>
@@ -72,7 +74,7 @@
 -->
 <br/>
 
-<p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm a full-stack software engineer from Georgia building awesome projects! I am currently open to any new clients or opportunities.  <!--Please feel free to contact me via email or LinkedIn.--> <br/><br> 💼 Portfolio coming soon!</p>
+<p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a full-stack software engineer from Georgia building awesome projects! I am currently open to any new clients or opportunities.  <!--Please feel free to contact me via email or LinkedIn.--> <br/><br> 💼 Portfolio coming soon!</p>
 
 <br/>
 
